@@ -1,4 +1,4 @@
-from utils import init_env
+from utils import init_en
 init_env()
 from fastapi import FastAPI,APIRouter, Request
 from fastapi.responses import PlainTextResponse
